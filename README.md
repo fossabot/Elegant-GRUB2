@@ -1,5 +1,6 @@
-
 # Elegant-GRUB2 theme
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feeeple%2FElegant-GRUB2.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Feeeple%2FElegant-GRUB2?ref=badge_shield)
+
 
 My version of Arch-Silence GRUB2 theme.
 
@@ -16,6 +17,9 @@ which makes it completely useless since there's practically no font that is read
 ## License
 
 If not explicitly stated otherwise all the files in this project are distributed under the [GNU General Public License](./COPYING).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Feeeple%2FElegant-GRUB2.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Feeeple%2FElegant-GRUB2?ref=badge_large)
 
 ## Author
 
